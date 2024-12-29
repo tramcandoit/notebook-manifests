@@ -11,4 +11,4 @@ resources:
 images:
 - name: 381492301125.dkr.ecr.us-east-1.amazonaws.com/notebook
   newName: 381492301125.dkr.ecr.us-east-1.amazonaws.com/notebook
-  newTag: 05f154
+  newTag: 0bb0be
